@@ -1,0 +1,4 @@
+github.com/ermes-labs/api-go v0.0.2 h1:7B9fUaofvG+9+oRG4VjIlT7prsszWZwzyIms1dCKHfo=
+github.com/ermes-labs/api-go v0.0.2/go.mod h1:xxZSUJdaeyIu4uCCvTmQzRYRAxZaW+Dy8Uo4oDRrngs=
+github.com/my-ermes-labs/log v0.4.0 h1:XC3byRiKZ9eiZj5C2bR0PJm8jmPl9rrVwfB+QozP8wA=
+github.com/my-ermes-labs/log v0.4.0/go.mod h1:9WvSr0abccmqV1FlJhFdwRcMn0btfTv7/7mhESkDw6Y=

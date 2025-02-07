@@ -1,0 +1,17 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  watcher:
+    lang: watch-node-state
+    handler: ./watch
+    image: ariannadragoniii/watch:latest
+  api: 
+    lang: api
+    handler: ./api
+    image: ariannadragoniii/api:latest
+  migrate: 
+    lang: migrate
+    handler: ./migrate
+    image: ariannadragoniii/migrate:latest
